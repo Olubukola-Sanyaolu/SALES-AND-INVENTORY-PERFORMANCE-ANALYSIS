@@ -15,6 +15,29 @@ Additionally, **46% of the inventory is either out of stock or below reorder poi
 
 ---
 
+
+##  Ojectives (Sales Dashboard)
+1.	Top 10 products by sales volume.
+2.	Total stock quantity by suppliers 
+3.	Least products by sales volume (Dead stocks).
+4.	Sales volume over time .
+5.	Total revenue generated from each product. 
+6.	Revenue overtime
+
+## Objectives (Inventory Dashboard)
+1.	Inventory health status i.e. Top products by inventory turnover rate.
+2.	A table that includes the following:
+•	Product ID
+•	Supplier ID
+•	Stock quantity
+•	Reorder level
+•	Reorder quantity
+•	Inventory turnover rate
+•	Lead time 
+•	Minimum order quantity
+  3.	Reorder/purchase alert
+
+
 ##  Dashboard 1: Sales & Product Insights
 
 This dashboard focuses on **sales performance**, product revenue, and stock-level impact.
